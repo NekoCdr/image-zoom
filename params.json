@@ -1,6 +1,6 @@
 {
   "name": "Image Zoom",
-  "tagline": "JS-плагин. Просмотр увеличенного изображения при клике на превью.",
+  "tagline": "Просмотр увеличенного изображения при клике на превью.",
   "body": "### Приветствую вас\r\nЭта страница предназначена для воспроизведения примера работы плагина [Image Zoom](https://github.com/intro94/image-zoom).\r\n\r\nImage Zoom это небольшой JS-плагин, который, при нажатии на превью, открывает в модальном окне увеличенное изображение.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
